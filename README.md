@@ -9,7 +9,7 @@
 ![1000px-Netflix_logo svg](https://user-images.githubusercontent.com/48457700/117522825-c7a92c80-af8b-11eb-9ec2-d5a1380e78c7.png)
 
 
-# ReactJs Clone Netflix's Homepage
+# ReactJs Clone Netflix Homepage
 This is a Netflix's Homepage clone created with ReactJS
 
 ## Technologies Used:
