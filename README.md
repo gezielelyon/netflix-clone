@@ -17,9 +17,5 @@ This is a Netflix's Homepage clone created with ReactJS
 - [React](https://pt-br.reactjs.org/) (Components)
 - [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS) (Styles)
 
-### Images:
-![Capture1](https://user-images.githubusercontent.com/48457700/117522832-d099fe00-af8b-11eb-90ab-294574f19dc8.PNG)
-
-
-![Capture2](https://user-images.githubusercontent.com/48457700/117522847-dee81a00-af8b-11eb-9f36-e6d7976dd4f0.PNG)
-
+### Image:
+![screencapture-localhost-3000-watch-85552-2022-03-24-22_03_47](https://user-images.githubusercontent.com/48457700/160035966-f2e54176-a7af-4493-bfa7-d70f145a9608.png)
