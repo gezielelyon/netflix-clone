@@ -1,20 +1,44 @@
-![GitHub issues](https://img.shields.io/github/issues/programador404/react_netflix_homepage_clone)
-![GitHub forks](https://img.shields.io/github/forks/programador404/react_netflix_homepage_clone)
-![GitHub starts](https://img.shields.io/github/stars/programador404/react_netflix_homepage_clone)
-![GitHub license](https://img.shields.io/github/license/programador404/react_netflix_homepage_clone)
-![React](https://img.shields.io/badge/React-components-orange)
+<div align='justify'>
+
+<div align='center'>
+
+# **React Netflix Homepage Clone**
+
+</div>
+
+<div align='center'>
+
+![GitHub issues](https://img.shields.io/github/issues/gezielelyon/react_netflix_homepage_clone)
+![GitHub forks](https://img.shields.io/github/forks/gezielelyon/react_netflix_homepage_clone)
+![GitHub starts](https://img.shields.io/github/stars/gezielelyon/react_netflix_homepage_clone)
+![GitHub license](https://img.shields.io/github/license/gezielelyon/react_netflix_homepage_clone)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
-![Css](https://img.shields.io/badge/Css-Styles-blue)
+![HTML](https://img.shields.io/badge/HTML-Hypertext-orange)
+![CSS](https://img.shields.io/badge/CSS-Styles-pink)
+![React](https://img.shields.io/badge/React-Components-blue)
+
+</div>
 
 ![Logo](https://user-images.githubusercontent.com/48457700/117522825-c7a92c80-af8b-11eb-9ec2-d5a1380e78c7.png)
 
-# React Netflix homepage clone
-This is a Netflix's homepage clone created with React.
+## **Summary**
+- [About the project](#about-the-project)
+- [Technologies](#technologies)
+- [Images](#images)
 
-## Technologies
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) (Language)
-- [React](https://pt-br.reactjs.org/) (Components)
-- [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS) (Styles)
+## **About the project**
+This repository contains a Netflix's homepage clone.
 
-## Images
-![screencapture-localhost-3000-watch-85552-2022-03-24-22_03_47](https://user-images.githubusercontent.com/48457700/160035966-f2e54176-a7af-4493-bfa7-d70f145a9608.png)
+## **Technologies**
+The technologies used on the project development are listed below.
+
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [ReactJS](https://pt-br.reactjs.org/)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+## **Images**
+![Image](https://user-images.githubusercontent.com/48457700/160035966-f2e54176-a7af-4493-bfa7-d70f145a9608.png)
+
+<kbd>[&uarr; Summary](#summary)</kbd>
+</div>
