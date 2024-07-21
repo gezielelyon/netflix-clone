@@ -2,16 +2,16 @@
 
 <div align='center'>
 
-# **React Netflix Homepage Clone**
+# **Netflix Homepage Clone**
 
 </div>
 
 <div align='center'>
 
-![GitHub issues](https://img.shields.io/github/issues/gezielelyon/react_netflix_homepage_clone)
-![GitHub forks](https://img.shields.io/github/forks/gezielelyon/react_netflix_homepage_clone)
-![GitHub starts](https://img.shields.io/github/stars/gezielelyon/react_netflix_homepage_clone)
-![GitHub license](https://img.shields.io/github/license/gezielelyon/react_netflix_homepage_clone)
+[![GitHub issues](https://img.shields.io/github/issues/gezielelyon/netflix-clone)](https://github.com/gezielelyon/netflix-clone/issues)
+[![GitHub forks](https://img.shields.io/github/forks/gezielelyon/netflix-clone)](https://github.com/gezielelyon/netflix-clone/network)
+[![GitHub stars](https://img.shields.io/github/stars/gezielelyon/netflix-clone)](https://github.com/gezielelyon/netflix-clone/stargazers)
+[![GitHub license](https://img.shields.io/github/license/gezielelyon/netflix-clone)](https://github.com/gezielelyon/netflix-clone)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![HTML](https://img.shields.io/badge/HTML-Hypertext-orange)
 ![CSS](https://img.shields.io/badge/CSS-Styles-pink)
